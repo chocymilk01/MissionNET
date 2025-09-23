@@ -1,13 +1,12 @@
-# Project 1
+# MissionNET
 
-Welcome to Project 1! This is the main page for this project.
+Welcome to MissionNET
 
-## Sub-projects
+## Blog
 
-- [Project 1a](subproject1a/)
-- [Project 1b](subproject1b/)
-- [Project 1c](subproject1c/)
+- [MOTOTRBO Radios for the Amateur](project1a/)
 
 ---
 
-You can add more description about Project 1 here.
+MissionNET is a markdown blog documenting my journey in amateur wireless communication.
+
