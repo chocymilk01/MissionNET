@@ -4,3 +4,9 @@
 <meta name="author" content="chocymilk">
 <meta name="keywords" content="amateur radio, Motorola, MOTOTRBO, XPR, XPR4550, XPR5550, MissionNET, projects, ham radio">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<!-- Optional SEO meta keywords from tags -->
+{% if page.tags %}
+<meta name="keywords" content="{{ page.tags | join: ', ' }}">
+{% endif %}
