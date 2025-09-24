@@ -1,10 +1,15 @@
 ---
 title: MissionNET
-description: Notes and resources for using Motorola MOTOTRBO radios in amateur radio applications.
+description: Homepage of the MissionNET blog with notes and resources for using Motorola MOTOTRBO radios in amateur radio applications.
 tags:
   - MOTOTRBO
+  - Motorola
   - amateur radio
   - digital radio
+  - DMR
+  - XPR4550
+  - XPR5550
+  - XPR7550
 ---
 
 # MissionNET Home
