@@ -8,8 +8,8 @@ The first project is documenting my experiences with the Motorola MOTOTRBO famil
 
 ## Articles
 
-- .[MOTOTRBO Radios for the Amateur](mototrbo/).
-- .[Motorola MOTOTRBO Hardware]
+- [MOTOTRBO Radios for the Amateur](..mototrbo/)
+- [Motorola MOTOTRBO Hardware]
 
 
 #### Disclaimer
