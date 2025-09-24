@@ -1,7 +1,7 @@
 # MissionNET
 Welcome to MissionNET Radio - Networking, Exploration, and Testing.
 
-This is public blog to share with others my experiences of using professional radios for the amateur.
+This is a public blog to share with others my experiences of using professional radios for the amateur.
 
 Content may expand over time, first documenting my experiences with the Motorola MOTOTRBO family of radios and DMR (Digital Mobile Radio).
 
