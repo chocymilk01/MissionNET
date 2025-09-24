@@ -1,4 +1,4 @@
-**# MissionNET
+# MissionNET
 Welcome to MissionNET Radio - Networking, Exploration, and Testing.
 
 This is public blog to share with others my experiences of using professional radios for the amateur.
