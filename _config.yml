@@ -1,10 +1,2 @@
 title: MissionNET Radio
-description: Amateur radio experiments and projects using Motorola and other professional radio systems.
 theme: jekyll-theme-minimal
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
