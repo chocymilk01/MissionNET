@@ -1,6 +1,10 @@
 ---
 title: MissionNET
 description: Notes and resources for using Motorola MOTOTRBO radios in amateur radio applications.
+tags:
+  - MOTOTRBO
+  - amateur radio
+  - digital radio
 ---
 
 # MissionNET Home
