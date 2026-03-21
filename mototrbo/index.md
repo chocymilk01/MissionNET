@@ -7,3 +7,5 @@ description: Notes and resources for using Motorola MOTOTRBO radios in amateur r
 ## MOTOTRBO Radios for Amateur Use
 
 - [MOTOTRBO Hardware](mototrbo_hardware.md)
+
+updated here too
