@@ -1,3 +1,0 @@
-# MissionNET
-## MOTOTRBO Hardware
-
