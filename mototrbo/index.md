@@ -6,4 +6,4 @@ description: Notes and resources for using Motorola MOTOTRBO radios in amateur r
 # MissionNET
 ## MOTOTRBO Radios for Amateur Use
 
-- [MOTOTRBO Hardware](hardware/)
+- [MOTOTRBO Hardware](mototrbo_hardware.md)

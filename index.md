@@ -1,30 +1,47 @@
 ---
-title: MissionNET
-description: Homepage of the MissionNET blog with notes and resources for using Motorola MOTOTRBO radios in amateur radio applications.
-tags:
-  - MOTOTRBO
-  - Motorola
-  - amateur radio
-  - digital radio
-  - DMR
-  - XPR4550
-  - XPR5550
-  - XPR7550
+layout: default
+title: MissionNET Radio
 ---
 
-# MissionNET Home
-**Welcome to MissionNET Radio - Networking, Exploration, and Testing.**
+# MissionNET Radio
 
-This is a public blog to share with others my experiences of using professional radios for the amateur.
+**Networking, Exploration, and Testing.**
 
-The first project is documenting my experiences with the Motorola MOTOTRBO family of radios and DMR (Digital Mobile Radio).
-### [Get Started](getstarted)
+MissionNET documents the use of professional two-way radios — Motorola MOTOTRBO, Harris, and others — in an amateur radio context. All content is for educational and informational purposes only.
 
-## Articles
+---
 
-- [MOTOTRBO Radios for the Amateur](mototrbo/)
-  - [MOTOTRBO Hardware](mototrbo/hardware/)
+## Getting Started
 
+New here? Start with the overview before diving into a specific radio family.
 
-#### Disclaimer
-MissionNET is an independent project, and is not affiliated with Motorola. Motorola, Motorola Solutions, and related marks are trademarks and that their software is copyrighted and owned by Motorola Solutions. The content presented within this webpage is for educational and informational purposes only, and does not substitute official Motorola documentation or licensing. The author does not host, share, or distribute Motorola software — readers should only obtain and use software that is obtained legally.
+- [Get Started](./getstarted)
+
+---
+
+## Reference Articles
+
+### Motorola MOTOTRBO
+
+Documentation covering the MOTOTRBO family of DMR radios for amateur use.
+
+- [MOTOTRBO Radios for the Amateur](./mototrbo/)
+  - [MOTOTRBO Hardware](./mototrbo/hardware/)
+
+### Harris
+
+*Coming soon.*
+
+### General DMR & Digital Radio
+
+*Coming soon.*
+
+---
+
+## About & Disclaimer
+
+MissionNET is an independent project, and is not affiliated with Motorola Solutions or Harris. Motorola, Motorola Solutions, and related marks are trademarks and their software is copyrighted and owned by Motorola Solutions.
+
+Content presented here is for educational and informational purposes only, and does not substitute official documentation or licensing. The author does not host, share, or distribute proprietary software — readers should only obtain and use software legally.
+
+Pull requests which offer well-documented, well-justified, and well-referenced additions or edits may be entertained. See the [GitHub repository](https://github.com/chocymilk01/MissionNET) for more information.
