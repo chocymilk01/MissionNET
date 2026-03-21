@@ -1,10 +1,28 @@
 title: MissionNET Radio
-description: Amateur radio experiments and projects using MOTOTRBO and other digital systems.
+description: Amateur radio experiments and projects using MOTOTRBO, Harris, and other digital systems.
 theme: jekyll-theme-minimal
 
+# Build settings
+show_downloads: false
+
+# Post defaults
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+# Permalinks: /2026/03/20/post-title/
+permalink: /:year/:month/:day/:title/
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
