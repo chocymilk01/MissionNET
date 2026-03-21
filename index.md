@@ -11,22 +11,14 @@ MissionNET documents the use of professional two-way radios — Motorola MOTOTRB
 
 ---
 
-## Getting Started
-
-New here? Start with the overview before diving into a specific radio family.
-
-- [Get Started](./getstarted)
-
----
-
 ## Reference Articles
 
 ### Motorola MOTOTRBO
 
 Documentation covering the MOTOTRBO family of DMR radios for amateur use.
 
-- [MOTOTRBO Radios for the Amateur](./mototrbo/)
-  - [MOTOTRBO Hardware](./mototrbo/hardware/)
+- [MOTOTRBO Overview](mototrbo/)
+  - [MOTOTRBO Hardware](mototrbo/mototrbo_hardware)
 
 ### Harris
 
