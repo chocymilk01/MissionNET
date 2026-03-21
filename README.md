@@ -6,7 +6,7 @@ This is a public blog to share with others my experiences of using professional 
 Content may expand over time, first documenting my experiences with the Motorola MOTOTRBO family of radios and DMR (Digital Mobile Radio).
 
 ### On Github
-MissionNET is hosted through Github Pages and can be found at: https://chocymilk01.github.io/MissionNET-radio/
+MissionNET is hosted through Github Pages and can be found at: https://chocymilk01.github.io/MissionNET/
 
 Pull requests which offer 1). well-documented, 2). well-justified, and 3). well-referenced edits or additions *may* be entertained to contribute to the collective knowledge of using professional two-way radios in an amateur capacity.
 
