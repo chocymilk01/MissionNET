@@ -1,30 +1,28 @@
 ---
-title: MissionNET
-description: Homepage of the MissionNET blog with notes and resources for using Motorola MOTOTRBO radios in amateur radio applications.
-tags:
-  - MOTOTRBO
-  - Motorola
-  - amateur radio
-  - digital radio
-  - DMR
-  - XPR4550
-  - XPR5550
-  - XPR7550
+layout: default
+title: MissionNET Radio
 ---
-
-# MissionNET Home
-**Welcome to MissionNET Radio - Networking, Exploration, and Testing.**
-
-This is a public blog to share with others my experiences of using professional radios for the amateur.
-
-The first project is documenting my experiences with the Motorola MOTOTRBO family of radios and DMR (Digital Mobile Radio).
-### [Get Started](getstarted)
-
-## Articles
-
-- [MOTOTRBO Radios for the Amateur](mototrbo/)
-  - [MOTOTRBO Hardware](mototrbo/hardware/)
-
-
-#### Disclaimer
-MissionNET is an independent project, and is not affiliated with Motorola. Motorola, Motorola Solutions, and related marks are trademarks and that their software is copyrighted and owned by Motorola Solutions. The content presented within this webpage is for educational and informational purposes only, and does not substitute official Motorola documentation or licensing. The author does not host, share, or distribute Motorola software — readers should only obtain and use software that is obtained legally.
+ 
+# Welcome to MissionNET Radio
+ 
+**Networking, Exploration, and Testing.**
+ 
+This is a public blog documenting my experiences using professional radios — Motorola MOTOTRBO, Harris, and others — for amateur radio purposes. Content is for educational and informational purposes only.
+ 
+---
+ 
+## Posts
+ 
+{% if site.posts.size > 0 %}
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
+<small>{{ post.date | date: "%B %d, %Y" }}{% if post.tags.size > 0 %} &middot; {{ post.tags | join: ", " }}{% endif %}</small>
+ 
+{{ post.excerpt }}
+ 
+---
+{% endfor %}
+{% else %}
+*No posts yet — check back soon!*
+{% endif %}
+ 
